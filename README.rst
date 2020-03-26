@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2FSTLDecompose.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2FSTLDecompose?ref=badge_shield)
+
 STL Decompose
 =============
 
@@ -35,3 +37,7 @@ More Resources
 - ``statsmodels`` `Time Series analysis <http://www.statsmodels.org/stable/tsa.html>`_ package
 - Hyndman's `OTexts reference on STL decomposition <https://www.otexts.org/fpp/6/5>`_ 
 - Cleveland et al. 1990 [`pdf <https://www.wessa.net/download/stl.pdf>`_]
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2FSTLDecompose.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2FSTLDecompose?ref=badge_large)
